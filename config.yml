@@ -1,6 +1,16 @@
-title: Yeswanth Sai
+title: <p align="center"> Sai Yaswanth S </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center"> |
+  <a href="https://www.linkedin.com/in/sai-yaswanth-sigirala-14974317a/">LinkedIn</a> |
+  <a href="https://github.com/yeswanth1098">GitHub</a>
+  
+  <br>   
+  I'm learning Data Science in Upgrad.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
